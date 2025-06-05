@@ -2,13 +2,13 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 from pathlib import Path
-from utils import reader
+from EDA import reader
 from EDA import stats
 
 plots_prefix = Path('plots')
 plots_prefix.mkdir(parents=True, exist_ok=True)
 
-base_df = reader.read_data('../utils/players_22')
+base_df = reader.read_data('../players_22')
 stats.count_stats(base_df)
 plot_size = (10,10)
 
