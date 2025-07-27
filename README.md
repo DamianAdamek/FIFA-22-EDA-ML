@@ -59,19 +59,16 @@ The project consists of the following stages:
 ## 📁 Repository Structure
 
 ```
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Models.ipynb
-│   └── Optimization.ipynb
-├── src/
-│   ├── regression_custom.py       # custom regression implementations
-│   └── mixture_of_experts.py     # MoE model
-├── data/
-│   └── fifa22_clean.csv
-├── report/
-│   └── Damian_Adamek_report.pdf
+├── EDA/
+│   ├── __init__.py
+│   ├── data_analysis_main.py
+│   └── reader.py
+│   └── stats.py
+├── advanced_ML_models.ipynb
+├── simple_ML_models.ipynb
+├── players_22.csv
+├── requirements.txt
 └── README.md
-```
 
 ---
 
