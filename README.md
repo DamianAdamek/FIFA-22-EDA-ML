@@ -69,7 +69,7 @@ The project consists of the following stages:
 ├── players_22.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🔧 How to Run
