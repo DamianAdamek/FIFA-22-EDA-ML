@@ -2,8 +2,7 @@
 
 This project was developed as part of the **Systems and Decision Methods** course. It focuses on exploratory data analysis (EDA) of FIFA 22 player data and demonstrates various machine learning models for predicting player value.
 
-**Author**: Damian Adamek  
-**Student ID**: 280572  
+**Author**: Damian Adamek    
 **Repository**: [github.com/DamianAdamek/FIFA-22-EDA-ML](https://github.com/DamianAdamek/FIFA-22-EDA-ML)
 
 ---
